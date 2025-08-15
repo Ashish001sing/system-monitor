@@ -1,0 +1,71 @@
+# 🔒 Ignore Windows system folders
+Application Data/
+Cookies/
+Documents/My Music/
+Documents/My Pictures/
+Documents/My Videos/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+.VirtualBox/
+AppData/
+Microsoft/
+Windows/
+
+# 🛠️ Ignore Visual Studio IDE clutter
+.vs/
+*.VC.db
+*.suo
+*.user
+*.cache
+*.pdb
+*.idb
+*.ipch
+*.dbmdl
+
+# ⚙️ Ignore build artifacts
+*.obj
+*.exe
+*.log
+*.dll
+*.lib
+*.ilk
+*.tmp
+*.bak
+*.ncb
+*.pch
+*.tlog
+*.lastbuildstate
+*.manifest
+*.rsp
+*.sdf
+*.opensdf
+*.trn
+*.xcodeproj
+*.xcworkspace
+
+# 📦 Ignore build and log folders
+build/
+logs/
+out/
+bin/
+Debug/
+Release/
+
+# 🧪 Ignore test outputs
+test-output/
+coverage/
+*.gcno
+*.gcda
+*.gcov
+
+# 📜 Ignore OS-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
